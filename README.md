@@ -1,7 +1,3 @@
-# GitHub
-
-**Author:** Reem Al-Saidi  
-**Date:** November 2025
 
 ## Repository Overview
 
