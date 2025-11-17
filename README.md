@@ -1,4 +1,3 @@
-
 ## Repository Overview
 
 The repository contains complete implementations for evaluating privacy-utility tradeoffs across 13 transformer architectures (9 general-purpose and 4 genomic foundation models) on splice site prediction tasks using the HS3D dataset. Each model implementation is self-contained and can be executed independently.
